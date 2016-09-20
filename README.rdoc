@@ -1,3 +1,3 @@
 == Grammable
 
-This app is based on Instagram and is built with Ruby on Rails.  Users can register, log in and post photos with comments.
+This app is based on Instagram and is built with Ruby on Rails, RSpec and AWS.  Users can register, log in and post photos with comments.
