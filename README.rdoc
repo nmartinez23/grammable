@@ -1,3 +1,18 @@
 == Grammable
 
-This app is based on Instagram and is built with Ruby on Rails, RSpec and AWS.  Users can register, log in and post photos with comments.
+An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles. Users can register, log in and post photos with comments.
+
+The following technologies were used to create this application.
+
+* Ruby on Rails
+* Postgresql database
+* Bootstrap framework
+* Heroku hosting
+* Devise user forms
+* RSpec testing
+* AWS for user photo storage
+* AJAX requests
+
+== Test the application
+
+You can download or clone the files to run this application locally. You will need to know how to navigate the Rails framework as the functionality is spread across the files in the Controller, Models, Assets and Views folders.
