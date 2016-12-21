@@ -1,17 +1,17 @@
 == Grammable
 
-An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles. Users can register, log in and post photos with comments.
+An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles. Users can register, log in and post photos with comments. Deployed to Heroku: http://grammable-nmartinez.herokuapp.com
 
 The following technologies were used to create this application.
 
 * Ruby on Rails
+* RSpec test driven development
 * Postgresql database
 * Bootstrap framework
 * Heroku hosting
-* Devise user forms
-* RSpec testing
+* Devise user authentication
 * AWS for user photo storage
-* AJAX requests
+* FactoryGirl test data
 
 == Test the application
 
