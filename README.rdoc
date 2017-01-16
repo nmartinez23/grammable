@@ -2,6 +2,8 @@
 
 An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles. Users can register, log in and post photos with comments. Deployed to Heroku: http://grammable-nmartinez.herokuapp.com
 
+https://cloud.githubusercontent.com/assets/14083180/21990824/11956664-dbc5-11e6-87aa-0f4694d5a7ea.png
+
 The following technologies were used to create this application.
 
 * Ruby on Rails
